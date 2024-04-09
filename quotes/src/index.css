@@ -1,0 +1,90 @@
+.nav-tag
+{
+   
+    padding:30px;
+    background-color:transparent;
+    max-width: 600px;
+    max-height: fit-content;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 109px 68px, rgba(0, 0, 0, 0.22) 60px 75px 92px;
+
+    /* opacity: 0.5; */
+
+    border-color:rgb(5, 5, 5);
+    margin-top:50px;
+
+}
+
+.title-tag
+{
+    color:white;
+    font: 2.34rem cursive;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(5, 5, 85);
+
+}
+
+.div-tag
+{
+    max-width: 800px;
+    margin: auto;
+    margin-top:80px;
+    border-style:solid ;
+    border-radius: 100px;
+    border-color:rgb(3, 9, 91);
+    
+   
+}
+.div-tag:hover
+{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 109px 68px, rgba(0, 0, 0, 0.22) 60px 75px 92px;
+
+
+}
+.head-tag
+{
+    color:white;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.message-tag
+{
+    color:white;
+    text-align: center;
+    justify-content:justify ;
+    font-family: cursive;
+    line-height: 2.0;
+}
+.btn-tag
+{
+   
+    margin-bottom: 20px;
+    padding: 20px;
+    width: 150px;
+    height:60px;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.3);
+   
+    color: white;
+
+}
+.btn-div
+
+{
+    max-width: fit-content;
+    max-height: fit-content;
+    margin: auto;
+}
+.cont-tag
+
+{
+    border:solid;
+    border-color:rgb(45, 44, 44);
+    max-width:1000px;
+    margin-top: 100px;
+    margin-left:auto;
+    margin-right:auto;
+}
