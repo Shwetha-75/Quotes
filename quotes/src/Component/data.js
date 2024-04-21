@@ -15,7 +15,7 @@ export default[
     },     
     {
         heading:"Inspirational",
-        message:`Keep your face always toward the sunshine, and shadows will fall behind you."
+        message:""
         — Walt Whitman`
     
     }
